@@ -1,0 +1,8 @@
+pandas
+langchain
+langgraph
+langchain-groq
+python-dotenv
+fastapi
+uvicorn
+langchain-classic
