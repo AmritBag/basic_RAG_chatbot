@@ -1,5 +1,5 @@
 [project]
-name = "be-basic-chatbot"
+name = "basic-rag-chatbot"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -12,5 +12,6 @@ dependencies = [
     "langgraph>=1.0.8",
     "pandas>=3.0.1",
     "python-dotenv>=1.2.1",
+    "python-multipart>=0.0.22",
     "uvicorn>=0.41.0",
 ]

@@ -6,4 +6,4 @@ python-dotenv
 fastapi
 uvicorn
 langchain-classic
-fastapi
+python-multipart
